@@ -1,4 +1,4 @@
-# Pagina de ilustrador Free-Lance
+# Pagina de ilustradora FreeLance
 
 Pagina estilo portafolio para una amiga ilustradora de Peru.
 
